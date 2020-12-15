@@ -1,0 +1,7 @@
+/* navigation.css */
+.tab-bar{position: fixed; display: flex; justify-content: space-between; bottom:0; width:100%; border-top:1px solid #b1b1b1; background: #f7f7f7; padding:10px 30px 5px;}
+.tab-bar a{display: block; text-decoration: none; display: flex; align-items: center; flex-direction: column; color:#c1c1c1; transform: scale(1); transition: transform 0.3s linear 0s;}
+.tab-bar a:hover{transform: scale(1.1);}
+.tab-bar a span{font-size: 10px;}
+.tab-bar i{font-size:24px; margin-bottom:5px;}
+.tab-bar .choice{color:#532727;}

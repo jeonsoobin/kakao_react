@@ -1,0 +1,6 @@
+[1207/175025.411:ERROR:directory_reader_win.cc(43)] FindFirstFile: ÁöÁ¤µÈ °æ·Î¸¦ Ã£À» ¼ö ¾ø½À´Ï´Ù. (0x3)
+[1210/122559.892:ERROR:directory_reader_win.cc(43)] FindFirstFile: ÁöÁ¤µÈ °æ·Î¸¦ Ã£À» ¼ö ¾ø½À´Ï´Ù. (0x3)
+[1210/131017.429:ERROR:process_info.cc(359)] UncheckedAllocate
+[1210/131017.549:ERROR:filesystem_win.cc(129)] GetFileAttributes C:\Users\ì „ìˆ˜ë¹ˆ\AppData\Local\Google\Chrome\User Data\Crashpad\attachments\11a6e91a-e8a7-4930-9c5c-9f95ad37ac62: ÁöÁ¤µÈ °æ·Î¸¦ Ã£À» ¼ö ¾ø½À´Ï´Ù. (0x3)
+[1210/143020.367:ERROR:process_info.cc(359)] UncheckedAllocate
+[1210/143020.490:ERROR:filesystem_win.cc(129)] GetFileAttributes C:\Users\ì „ìˆ˜ë¹ˆ\AppData\Local\Google\Chrome\User Data\Crashpad\attachments\da54bca4-df30-419b-9c50-97854ffdcc73: ÁöÁ¤µÈ °æ·Î¸¦ Ã£À» ¼ö ¾ø½À´Ï´Ù. (0x3)

@@ -1,0 +1,83 @@
+[
+   {
+      "id":"0",
+      "name":"My name",
+      "profileimg":"https://i.pinimg.com/originals/ee/8b/97/ee8b97a5e625e2c689975c5cad44c7dc.jpg",
+      "profilemsg":"Hello",
+      "email":"Userid@gmail.com",
+      "backgroundimg":"https://i.pinimg.com/originals/e4/c2/b8/e4c2b84f602f2a7841124b26f24b9532.jpg",
+      "chatmsg":"Hello! This is a test message!"
+   },
+    {
+        "id":"1",
+        "name":"Lisa",
+        "profileimg":"https://i.pinimg.com/236x/c1/fe/f8/c1fef840504908e9d07d3ea1fb3097d8.jpg",
+        "profilemsg":"Have a good day. See you soon.",
+        "email":"Lisa@gmail.com",
+        "backgroundimg":"https://i.pinimg.com/originals/2b/98/33/2b983305387b39360ebf9109c21bd9b1.jpg",
+        "chatmsg":"Hello! This is a test message!"
+     },
+     {
+        "id":"2",
+        "name":"Madonna",
+        "profileimg":"https://i.pinimg.com/236x/51/0e/1a/510e1a5a980f0b40e791518a4eedbdc4.jpg",
+        "profilemsg":"Have a good day. See you soon.",
+        "email":"Madonna@gmail.com",
+        "backgroundimg":"https://i.pinimg.com/236x/51/a7/29/51a7291efb30d2fdd5dd10e612071ccb.jpg",
+        "chatmsg":"Hello! This is a test message!"
+     },
+     {
+        "id":"3",
+        "name":"Hash",
+        "profileimg":"https://i.pinimg.com/236x/d9/c7/17/d9c7170703422bfb5964d574d259c97c.jpg",
+        "profilemsg":"Have a good day. See you soon.",
+        "email":"Hash@daum.net",
+        "backgroundimg":"https://i.pinimg.com/236x/92/84/3d/92843d4ca5807c2e21b8870cce48995d.jpg",
+        "chatmsg":"Hello! This is a test message!"
+     },
+     {
+        "id":"4",
+        "name":"Jenny",
+        "profileimg":"https://i.pinimg.com/236x/75/62/db/7562db1f161edaeff4405f6c3d43aeb2.jpg",
+        "profilemsg":"Have a good day. See you soon.",
+        "email":"Jenny@naver.com",
+        "backgroundimg":"https://i.pinimg.com/236x/bd/08/09/bd0809ebfaa4d13cba2fb267d054540f.jpg",
+        "chatmsg":"Hello! This is a test message!"
+     },
+     {
+        "id":"5",
+        "name":"Biber",
+        "profileimg":"https://i.pinimg.com/236x/64/3c/c7/643cc7a5bc7277908840a5f1d50c2f92.jpg",
+        "profilemsg":"Have a good day. See you soon.",
+        "email":"Biber@gmail.com",
+        "backgroundimg":"https://i.pinimg.com/236x/02/f0/9b/02f09b4dd8e3bb1f44d0c4853e22168a.jpg",
+        "chatmsg":"Hello! This is a test message!"
+     },
+     {
+        "id":"6",
+        "name":"Rose",
+        "profileimg":"https://i.pinimg.com/236x/1c/27/0d/1c270d0f3645d6fb8d3034b9888944d9.jpg",
+        "profilemsg":"Have a good day. See you soon.",
+        "email":"Rose@naver.com",
+        "backgroundimg":"https://i.pinimg.com/236x/ca/27/57/ca2757320c646f22fa23fd63aa17131b.jpg",
+        "chatmsg":"Hello! This is a test message!"
+     },
+     {
+        "id":7,
+        "name":"Jisu",
+        "profileimg":"https://i.pinimg.com/236x/4d/1e/a5/4d1ea5f292daae0d43858a7bf39b7c5c.jpg",
+        "profilemsg":"Have a good day. See you soon.",
+        "email":"Jisu@daum.net",
+        "backgroundimg":"https://i.pinimg.com/236x/40/29/88/40298844b6b58c684286d9e91df1ab48.jpg",
+        "chatmsg":"Hello! This is a test message!"
+     },
+     {
+        "id":8,
+        "name":"KakaoTalk",
+        "profileimg":"https://i.pinimg.com/236x/76/30/46/7630467ef70d86f51d9df11274996a15.jpg",
+        "profilemsg":"Welcom to kakao",
+        "email":"kakaoTalk@gmail.com",
+        "backgroundimg":"https://i.pinimg.com/236x/cd/4a/9e/cd4a9ec2c8b7816a4e3ba025c6966502.jpg",
+        "chatmsg":"You logged into KakaoTalk PC"
+     }
+]
